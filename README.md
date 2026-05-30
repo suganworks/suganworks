@@ -236,7 +236,7 @@ public class Suganthan extends Developer {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=suganworks&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=suganworks&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 
 </div>
 
