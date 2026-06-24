@@ -1,9 +1,10 @@
 <!-- ANIMATED TECH STACK ICONS ROW — SUPUN STYLE -->
 <div align="center" style="display:flex;justify-content:center;align-items:center;gap:15px;">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="75"/>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="75"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65"/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55"/>
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55"/>
 </div>
@@ -43,24 +44,13 @@ I'm fascinated by how software can solve real-world problems 🌐. From building
 
 ---
 
-<p align="left">
-<a href="https://linkedin.com/in/suganthan-prabhakaran">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="https://sugan.vercel.app">
-<img src="https://github.com/suganworks/sugan/blob/main/public/favicon.ico" width="45"/>
-</a>
-
-<a href="mailto:p.suganthan04@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-
-<a href="https://github.com/suganworks">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
+<h3 align="center">🌐 Connect With Me</h3>
+<p align="center">
+<a href="https://linkedin.com/in/suganthan-prabhakaran"><img src="https://skillicons.dev/icons?i=linkedin" width="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:p.suganthan04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/suganworks"><img src="https://skillicons.dev/icons?i=github" width="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sugan.vercel.app"><img src="https://github.com/suganworks/sugan/blob/main/public/favicon.ico" width="50"></a>
 </p>
-
 <br/>
 
 ---
