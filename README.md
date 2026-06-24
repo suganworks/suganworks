@@ -43,22 +43,23 @@ I'm fascinated by how software can solve real-world problems 🌐. From building
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/suganthan-prabhakaran">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
 
-<div align="left" style="display:flex;gap:12px;">
-  <a href="https://linkedin.com/in/suganthan-prabhakaran" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40"/>
-  </a>
-  <a href="https://sugan.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Portfolio" width="40"/>
-  </a>
-  <a href="mailto:p.suganthan04@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" style="filter:invert(30%) sepia(90%) saturate(500%) hue-rotate(330deg);"/>
-  </a>
-  <a href="https://github.com/suganworks" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" style="filter:invert(1);"/>
-  </a>
-</div>
+<a href="https://sugan.vercel.app">
+<img src="https://github.com/suganworks/sugan/blob/main/public/favicon.ico" width="45"/>
+</a>
+
+<a href="mailto:p.suganthan04@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://github.com/suganworks">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+</p>
 
 <br/>
 
@@ -90,7 +91,7 @@ I'm fascinated by how software can solve real-world problems 🌐. From building
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode,postman&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark"/>
   </a>
 </p>
 
@@ -103,7 +104,7 @@ I'm fascinated by how software can solve real-world problems 🌐. From building
 <div align="center">
 
 <a href="https://github.com/suganworks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suganworks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suganworks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/suganworks">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suganworks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&border_radius=10"/>
