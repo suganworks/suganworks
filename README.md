@@ -11,7 +11,7 @@
 
 <br/>
 
-<h1 align="center">Hi 👋, I'm Suganthan Prabhakaran</h1>
+<h1 align="center">Hi 👋, I'm SUGAN</h1>
 <h3 align="center">Full Stack Developer &nbsp;·&nbsp; Java & .NET Enthusiast &nbsp;·&nbsp; Problem Solver</h3>
 
 <p align="center">
@@ -28,7 +28,7 @@ I'm fascinated by how software can solve real-world problems 🌐. From building
 
 - 🔭 I'm currently building **EasyPay — a Payroll Management System**
 
-- 🌱 I'm currently learning **ASP.NET Core, Clean Architecture & System Design**
+- 🌱 I'm currently learning **ASP.NET Core, Mircrosevice Architecture & System Design**
 
 - 👨‍💻 All my projects are available at [sugan.vercel.app](https://sugan.vercel.app)
 
